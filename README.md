@@ -82,6 +82,6 @@ const DaiDuong = {
 
 <div align="center">
 
-*🌊 "Code như đại dương — sâu thẳm, mạnh mẽ và vô tận" 🌊*
+***"Sau cùng, kỉ niệm là thứ giết chết chúng ta."***
 
 </div>
