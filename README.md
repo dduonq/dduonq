@@ -1,33 +1,60 @@
 <div align="center">
 
-# 👋 Xin chào, mình là [Tên của bạn]!
+<!-- Animated Header Banner -->
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:58A6FF&height=200&section=header&text=Nguyễn%20Hoàng%20Đại%20Dương&fontSize=40&fontColor=58A6FF&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20Universe%20🌊&descAlignY=55&descColor=a9b1d6)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Open+Source+Enthusiast;Always+learning+new+things)](https://git.io/typing-svg)
+<!-- Typing Effect -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=👋+Xin+chào!+Mình+là+Đại+Dương;🌊+Đam+mê+lập+trình+%26+sáng+tạo;🚀+Luôn+học+hỏi+điều+mới;💻+Code+là+nghệ+thuật+của+mình;⚡+Let's+build+something+awesome!)](https://git.io/typing-svg)
+
+<!-- Badges animated -->
+![Profile Views](https://komarev.com/ghpvc/?username=exfjw&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
+[![GitHub followers](https://img.shields.io/github/followers/exfjw?style=for-the-badge&color=58A6FF&labelColor=1a1b27)](https://github.com/exfjw)
 
 </div>
 
 ---
 
-## 🙋‍♂️ Về mình
+<!-- Snake animation contribution graph -->
+<div align="center">
 
-- 🔭 Đang làm việc với: **[Dự án hiện tại]**
-- 🌱 Đang học: **[Công nghệ đang học]**
-- 💬 Hỏi mình về: **JavaScript, Python, Web Dev**
-- 📫 Liên hệ: **your@email.com**
-- ⚡ Fun fact: *[Điều thú vị về bạn]*
+![Snake animation](https://raw.githubusercontent.com/exfjw/exfjw/output/github-contribution-grid-snake-dark.svg)
+
+</div>
 
 ---
 
-## 🛠️ Công nghệ & Công cụ
+## 🌊 Về mình
+
+```javascript
+const DaiDuong = {
+  name: "Nguyễn Hoàng Đại Dương",
+  alias: "exfjw",
+  location: "🇻🇳 Việt Nam",
+  passion: ["Coding", "Sáng tạo", "Khám phá công nghệ"],
+  currentlyLearning: ["Web Development", "AI/ML", "Open Source"],
+  funFact: "Mình code tốt hơn sau 12 giờ đêm 🌙",
+  motto: "Code like the ocean — deep, powerful & endless 🌊"
+};
+```
+
+---
+
+## 🛠️ Ngôn ngữ & Công cụ
+
+<div align="center">
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
 
 ---
 
@@ -35,33 +62,44 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=exfjw&show_icons=true&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=exfjw&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=a9b1d6" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=exfjw&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=a9b1d6" width="49%" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=exfjw&layout=compact&theme=tokyonight&hide_border=true)
+</div>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=exfjw&theme=tokyonight&hide_border=true)
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=exfjw&theme=tokyonight&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF)
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Trophies
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=exfjw&theme=tokyonight&no-frame=true&row=1&column=7)
+![Trophies](https://github-profile-trophy.vercel.app/?username=exfjw&theme=tokyonight&no-frame=true&column=7&margin-w=5)
 
 </div>
 
 ---
 
-## 📌 Dự án nổi bật
+## 📈 Biểu đồ hoạt động
 
 <div align="center">
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=exfjw&repo=YOUR_REPO&theme=tokyonight&hide_border=true)](https://github.com/exfjw/YOUR_REPO)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=exfjw&theme=tokyo-night&bg_color=0d1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=exfjw&repo=YOUR_REPO_2&theme=tokyonight&hide_border=true)](https://github.com/exfjw/YOUR_REPO_2)
+</div>
+
+---
+
+## 🎵 Đang nghe
+
+<div align="center">
+
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
 
 </div>
 
@@ -71,19 +109,20 @@
 
 <div align="center">
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/YOUR_FB)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_IG)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
 
 </div>
 
 ---
 
+<!-- Footer Wave -->
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:0d1117&height=120&section=footer&animation=fadeIn)
+
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=exfjw&color=58A6FF&style=flat-square)
-
-*⭐ Nhớ star các repo nếu thấy hữu ích nhé!*
+*🌊 "Code như đại dương — sâu thẳm, mạnh mẽ và vô tận" 🌊*
 
 </div>
