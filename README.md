@@ -35,11 +35,11 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=exfjw&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=exfjw&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=exfjw&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -49,7 +49,7 @@
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7)
+![Trophies](https://github-profile-trophy.vercel.app/?username=exfjw&theme=tokyonight&no-frame=true&row=1&column=7)
 
 </div>
 
@@ -59,9 +59,9 @@
 
 <div align="center">
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPO&theme=tokyonight&hide_border=true)](https://github.com/YOUR_USERNAME/YOUR_REPO)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=exfjw&repo=YOUR_REPO&theme=tokyonight&hide_border=true)](https://github.com/exfjw/YOUR_REPO)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPO_2&theme=tokyonight&hide_border=true)](https://github.com/YOUR_USERNAME/YOUR_REPO_2)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=exfjw&repo=YOUR_REPO_2&theme=tokyonight&hide_border=true)](https://github.com/exfjw/YOUR_REPO_2)
 
 </div>
 
@@ -82,7 +82,7 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=58A6FF&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=exfjw&color=58A6FF&style=flat-square)
 
 *⭐ Nhớ star các repo nếu thấy hữu ích nhé!*
 
