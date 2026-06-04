@@ -32,7 +32,7 @@ const DaiDuong = {
   location: "🇻🇳 Việt Nam",
   passion: ["Coding", "Sáng tạo", "Khám phá công nghệ"],
   currentlyLearning: ["Web Development", "AI/ML", "Open Source"],
-  funFact: "Mình code tốt hơn sau 12 giờ đêm 🌙",
+  funFact: "Coder ảo discord",
   motto: "Code like the ocean — deep, powerful & endless 🌊"
 };
 ```
@@ -56,45 +56,6 @@ const DaiDuong = {
 
 </div>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=exfjw&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=a9b1d6" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=exfjw&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=a9b1d6" width="49%" />
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=exfjw&theme=tokyonight&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF)
-
-</div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=exfjw&theme=tokyonight&no-frame=true&column=7&margin-w=5)
-
-</div>
-
----
-
-## 📈 Biểu đồ hoạt động
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=exfjw&theme=tokyo-night&bg_color=0d1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true)
-
-</div>
-
----
-
 ## 🎵 Đang nghe
 
 <div align="center">
@@ -105,14 +66,13 @@ const DaiDuong = {
 
 ---
 
-## 🌐 Kết nối với mình
+## Mạng Xã Hội của mình
 
 <div align="center">
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/exfjw)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/abcxyz.neversea)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nguyenduong21072009@gmail.com)
 
 </div>
 
