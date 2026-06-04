@@ -7,8 +7,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=👋+Xin+chào!+Mình+là+Đại+Dương;🌊+Đam+mê+lập+trình+%26+sáng+tạo;🚀+Luôn+học+hỏi+điều+mới;💻+Code+là+nghệ+thuật+của+mình;⚡+Let's+build+something+awesome!)](https://git.io/typing-svg)
 
 <!-- Badges animated -->
-![Profile Views](https://komarev.com/ghpvc/?username=exfjw&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/exfjw?style=for-the-badge&color=58A6FF&labelColor=1a1b27)](https://github.com/exfjw)
+![Profile Views](https://komarev.com/ghpvc/?username=exfjw&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)d
 
 </div>
 
@@ -66,7 +65,7 @@ const DaiDuong = {
 
 ---
 
-## Mạng Xã Hội của mình
+## 🌐 Mạng Xã Hội
 
 <div align="center">
 
