@@ -99,7 +99,7 @@ const DaiDuong = {
 
 <div align="center">
 
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
+[![Last.fm](https://lastfm-recently-played.vercel.app/api?user=exfjw)](https://www.last.fm/user/exfjw)
 
 </div>
 
