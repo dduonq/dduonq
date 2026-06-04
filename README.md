@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:58A6FF&height=200&section=header&text=Nguyễn%20Hoàng%20Đại%20Dương&fontSize=40&fontColor=58A6FF&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20Profile%20🌊&descAlignY=55&descColor=a9b1d6)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:58A6FF&height=200&section=header&text=Nguyễn%20Hoàng%20Đại%20Dương&fontSize=40&fontColor=58A6FF&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20Profile%20&descAlignY=55&descColor=a9b1d6)
 
 <!-- Typing Effect -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=👋+Xin+chào!+Mình+là+Đại+Dương;🌊+Đam+mê+lập+trình+%26+sáng+tạo;🚀+Luôn+học+hỏi+điều+mới;💻+Code+là+nghệ+thuật+của+mình;⚡+Let's+build+something+awesome!)](https://git.io/typing-svg)
