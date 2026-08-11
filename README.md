@@ -57,7 +57,7 @@ const DaiDuong = {
 <div align="center">
 
    <a href="https://discord.com/users/1248430665804808386" target="_blank">
-      <img src="https://lanyard-profile-readme.vercel.app/api/1310971730063528047?bg=0d1117&animated=true&hideDiscrim=false&borderRadius=31px">
+      <img src="https://lanyard-profile-readme.vercel.app/api/1248430665804808386?bg=0d1117&animated=true&hideDiscrim=false&borderRadius=31px">
 
 </div>
 
