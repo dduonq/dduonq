@@ -22,7 +22,7 @@
 
 ---
 
-## 🌊 Về mình
+## about me
 
 ```javascript
 const DaiDuong = {
@@ -37,7 +37,7 @@ const DaiDuong = {
 
 ---
 
-## 🛠️ Ngôn ngữ & Công cụ
+## ngôn ngữ lập trình
 
 <div align="center">
 
@@ -52,17 +52,18 @@ const DaiDuong = {
 
 </div>
 
-## 🎵 Đang nghe
+## discord
 
 <div align="center">
 
-[![Last.fm](https://lastfm-recently-played.vercel.app/api?user=exfjw)](https://www.last.fm/user/exfjw)
+   <a href="https://discord.com/users/1248430665804808386" target="_blank">
+      <img src="https://lanyard-profile-readme.vercel.app/api/1310971730063528047?bg=0d1117&animated=true&hideDiscrim=false&borderRadius=31px">
 
 </div>
 
 ---
 
-## 🌐 Mạng Xã Hội
+## mạng xã hội
 
 <div align="center">
 
