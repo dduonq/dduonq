@@ -26,10 +26,10 @@
 
 ```javascript
 const DaiDuong = {
-  name: "Nguyễn Hoàng Đại Dương",
-  alias: "exfjw",
-  location: "🇻🇳 Việt Nam",
-  passion: ["Coding", "Sáng tạo", "Khám phá công nghệ"],
+  name: "Ng H Dai Duong",
+  alias: "neversea",
+  location: "Viet Nam",
+  passion: ["Coding", "Creative", "Khám phá công nghệ"],
   currentlyLearning: ["Web Development", "AI/ML", "Open Source"],
   funFact: "Coder ảo discord"
 };
